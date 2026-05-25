@@ -1,7 +1,10 @@
-# Hi, I am Muhamad Ibnu Farizky 👋
+# Hi, I'm Muhamad Ibnu Farizky✌️
 ### Product Designer | UX
 
 Welcome to my GitHub profile. I am a Strategic UI/UX Designer with a business background focused on building high impact products.
+
+### My GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibnufarizky&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Tech Stack
 These are the tools and technologies I use for design and development:
