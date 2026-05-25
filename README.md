@@ -3,19 +3,13 @@
 
 Welcome to my GitHub profile. I am a Strategic UI/UX Designer with a business background focused on building high impact products.
 
-### Tech Stack
+### Tech Stack 👽
 These are the tools and technologies I use for design and development:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,html,css,js,github,vscode,notion" />
 </p>
 
----
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrizkyibnu&layout=compact&theme=radical&hide_border=true" />
-</p>
 ---
 
 ### Portfolio and Contact
