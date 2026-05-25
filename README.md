@@ -2,7 +2,11 @@
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&width=450&lines=PRODUCT+DESIGNER+%7C+UX&color=FF69B4,00FFFF" alt="Product Designer | UX" />
 
+---
+
 Welcome to my GitHub profile. I am a Strategic UI/UX Designer with a business background focused on building high impact products.
+
+---
 
 ### Tech Stack 👽
 These are the tools and technologies I use for design and development:
