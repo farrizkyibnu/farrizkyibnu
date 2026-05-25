@@ -12,6 +12,13 @@ These are the tools and technologies I use for design and development:
 
 ---
 
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnufarizky&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</p>
+
+---
+
 ### Portfolio and Contact
 Website Portfolio: https://farrizkyibnu.github.io/ux/
 LinkedIn: https://www.linkedin.com/in/muhamad-ibnu-farizky-1b7860193/
