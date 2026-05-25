@@ -1,5 +1,15 @@
 # Hi, I'm Muhamad Ibnu Farizky✌️
-### Product Designer | UX
+
+<h3 align="left">
+  <span style="display: inline-block; animation: fadeIn 2s;">Product Designer | UX</span>
+</h3>
+
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+</style>
 
 Welcome to my GitHub profile. I am a Strategic UI/UX Designer with a business background focused on building high impact products.
 
