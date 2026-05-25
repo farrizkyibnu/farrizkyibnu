@@ -1,28 +1,26 @@
-# Halo, Saya Muhamad Ibnu Farizky! 👋
+# Hi, I am Muhamad Ibnu Farizky 👋
 ### Product Designer | UX
 
-Selamat datang di profil GitHub saya. Saya seorang Strategic UI/UX Designer dengan latar belakang bisnis yang berfokus pada pengembangan produk berdampak tinggi.
+Welcome to my GitHub profile. I am a Strategic UI/UX Designer with a business background focused on building high impact products.
 
-### 🛠 Tech Stack
-Berikut adalah teknologi dan *tools* yang saya gunakan dalam alur kerja desain dan pengembangan:
+### Tech Stack
+These are the tools and technologies I use for design and development:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,github,vscode,nodejs,notion" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,github,vscode,notion" />
 </p>
 
 ---
 
-### 🔗 Portfolio & Kontak
-- **Website Portfolio:** [farrizkyibnu.github.io/ux/](https://farrizkyibnu.github.io/ux/)
-- **LinkedIn:** [Muhamad Ibnu Farizky](https://www.linkedin.com/in/muhamad-ibnu-farizky-1b7860193/)
-- **Behance:** [behance.net/ibnufarizky](https://www.behance.net/ibnufarizky)
-- **Email:** farizky.ibnu@gmail.com
+### Portfolio and Contact
+Website Portfolio: https://farrizkyibnu.github.io/ux/
+LinkedIn: https://www.linkedin.com/in/muhamad-ibnu-farizky-1b7860193/
+Behance: https://www.behance.net/ibnufarizky
+Email: farizky.ibnu@gmail.com
 
 ---
 
-### 📈 GitHub Stats
-*(Anda bisa menambahkan widget statistik GitHub di sini)*
-
+### GitHub Stats
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ibnufarizky&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
