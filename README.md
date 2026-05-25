@@ -17,9 +17,6 @@ These are the tools and technologies I use for design and development:
   <a href="https://farrizkyibnu.github.io/ux/">
     <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="https://www.linkedin.com/in/muhamad-ibnu-farizky-1b7860193/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://www.behance.net/ibnufarizky">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
