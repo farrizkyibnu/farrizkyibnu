@@ -17,7 +17,8 @@ These are the tools and technologies I use for design and development:
 
 ### Skills Proficiency
 <p align="left">
-  <img src="https://img.shields.io/badge/UX%20Research-%20Design-FF7262?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/UX%20Research-100%25-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-100%25-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-65%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-30%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
