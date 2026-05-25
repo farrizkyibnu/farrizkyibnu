@@ -1,6 +1,6 @@
 # Hi, I'm Muhamad Ibnu Farizky✌️
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=300&lines=Product+Designer+%7C+UX" alt="Typing SVG" />
+### <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=32CD32&duration=3000&pause=1000&width=450&lines=PRODUCT+DESIGNER+%7C+UX" alt="Product Designer | UX" />
 
 Welcome to my GitHub profile. I am a Strategic UI/UX Designer with a business background focused on building high impact products.
 
