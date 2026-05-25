@@ -1,15 +1,6 @@
 # Hi, I'm Muhamad Ibnu Farizky✌️
 
-<h3 align="left">
-  <span style="display: inline-block; animation: fadeIn 2s;">Product Designer | UX</span>
-</h3>
-
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=300&lines=Product+Designer+%7C+UX" alt="Typing SVG" />
 
 Welcome to my GitHub profile. I am a Strategic UI/UX Designer with a business background focused on building high impact products.
 
@@ -23,16 +14,12 @@ These are the tools and technologies I use for design and development:
 ---
 
 ### Portfolio and Contact
+
 <p align="left">
-  <a href="https://farrizkyibnu.github.io/ux/">
-    <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome" />
-  </a>
-  <a href="https://www.behance.net/ibnufarizky">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
-  <a href="mailto:farizky.ibnu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://farrizkyibnu.github.io/ux/"><img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://www.linkedin.com/in/muhamad-ibnu-farizky-1b7860193/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.behance.net/ibnufarizky"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="mailto:farizky.ibnu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
