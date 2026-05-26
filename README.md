@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub profile. I am a Strategic UI/UX Designer with a business background focused on building high impact products.
+Welcome to my GitHub profile. A Strategic UI/UX Designer with a business background focused on building high impact products.
 
 ---
 
